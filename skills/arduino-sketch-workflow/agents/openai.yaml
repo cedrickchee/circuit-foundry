@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arduino Sketch Workflow"
+  short_description: "Write, compile, and upload Arduino sketches"
+  default_prompt: "Use $arduino-sketch-workflow to write, compile, and upload an Arduino UNO sketch with Arduino CLI."

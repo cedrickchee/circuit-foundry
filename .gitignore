@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+.codex/
+.agents/
+.skill-build/
+
+*.tmp
+*.log
+
+# Arduino CLI/build output
+build/
+*.hex
+*.elf
+*.eep
+*.map

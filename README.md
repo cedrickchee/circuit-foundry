@@ -1,5 +1,7 @@
 # Circuit Foundry
 
+[![From Prompt to Arduino: Codex Builds an LCD Demo](https://img.youtube.com/vi/n-UScS7cVv0/0.jpg)](https://www.youtube.com/watch?v=n-UScS7cVv0)
+
 Circuit Foundry is a practical showcase for using Codex to build, compile, upload, and verify embedded systems projects with Arduino-class hardware.
 
 The project started as a proof of concept: Codex should be useful at the bench, not only in a software editor. It should help turn a box of electronics parts, a microcontroller, and a rough goal into working firmware, repeatable commands, and documented hardware behavior.
@@ -8,7 +10,6 @@ This repository contains two deliverables:
 
 - `skills/arduino-sketch-workflow`: a Codex skill for Arduino sketch work using Arduino CLI.
 - `arduino_starter_kit`: Arduino UNO R3 examples, including board setup, sketches, C/C++ code, and proof images.
-
 
 <table>
   <tr>

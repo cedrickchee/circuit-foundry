@@ -9,11 +9,25 @@ This repository contains two deliverables:
 - `skills/arduino-sketch-workflow`: a Codex skill for Arduino sketch work using Arduino CLI.
 - `arduino_starter_kit`: Arduino UNO R3 examples, including board setup, sketches, C/C++ code, and proof images.
 
-![Arduino UNO R3 with LCD wiring](docs/images/uno-r3-lcd-setup.jpg)
-Arduino UNO R3 with LCD wiring
 
-![LCD art demo running on Arduino UNO R3](docs/images/lcd-art-demo.jpg)
-LCD art demo running on Arduino UNO R3
+<table>
+  <tr>
+    <th>Arduino UNO R3 with LCD wiring</th>
+    <th>LCD art demo running on Arduino UNO R3</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center" width="100%">
+        <img width="60%"  alt="Arduino UNO R3 with LCD wiring" src="https://raw.githubusercontent.com/cedrickchee/circuit-foundry/refs/heads/main/docs/images/uno-r3-lcd-setup.jpg" />
+      </p>
+    </td>
+    <td>
+      <p align="center" width="100%">
+        <img width="60%"  alt="LCD art demo running on Arduino UNO R3" src="https://raw.githubusercontent.com/cedrickchee/circuit-foundry/refs/heads/main/docs/images/lcd-art-demo.jpg" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## What Is Included
 

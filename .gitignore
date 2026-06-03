@@ -14,3 +14,5 @@ build/
 *.elf
 *.eep
 *.map
+
+*.mp4
